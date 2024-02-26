@@ -1,4 +1,7 @@
 # CyLib-Cafe
+
+**Python-SQL Cyber Cafe & Library Management System**
+
 **Description:**
 
 Welcome to our Cyber Cafe & Library Management System project repository! This collaborative effort showcases the fusion of Python and SQL to create a comprehensive solution for managing cyber cafe operations and library resources seamlessly.
