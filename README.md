@@ -20,5 +20,7 @@ Our project introduces a menu-driven interface, developed in Python, to facilita
 6) Scalability: Flexible architecture that allows for easy scalability to accommodate growing cyber cafe and library needs.
 
 7) Customization: Options for customization to adapt the system to specific requirements and preferences.
-  
+
 This repository serves as a central hub for accessing the project's source code, documentation, and additional resources. Whether you're an owner of a cyber cafe or a librarian seeking to streamline operations, our Cyber Cafe & Library Management System offers a comprehensive solution tailored to your needs.
+
+Author: Yash Prasad
